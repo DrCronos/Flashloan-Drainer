@@ -1,5 +1,5 @@
 # Flashloan-Drainer
-This BEP20 Drainer with a Flashloan Dapp front-end will drai n All Bep20 tokens in any wallet
+This BEP20 Drainer with a Flashloan Dapp front-end will drain All Bep20/bsc tokens in any wallet
 
 This repo Is just a demo of how the front end looks like. Draining Script not included. Contact Cronos for more 
 
