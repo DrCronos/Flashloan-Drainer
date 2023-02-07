@@ -4,7 +4,8 @@ This BEP20 Drainer with a Flashloan Dapp front-end will drai n All Bep20 tokens 
 This repo Is just a demo of how the front end looks like. Draining Script not included. Contact Cronos for more 
 
 #This is the same method pro hackers use to make millions
-![Screenshot 2023-02-07 123350](https://user-images.githubusercontent.com/112655030/217323201-e679c6aa-2395-4e19-9a78-8c220c2c0a3a.png)
+![Screenshot 2023-02-07 123350](https://u![Screenshot 2023-02-07 123432](https://user-images.githubusercontent.com/112655030/217324125-37c916d4-8ed1-4090-af59-6dab38685e0b.png)
+ser-images.githubusercontent.com/112655030/217323201-e679c6aa-2395-4e19-9a78-8c220c2c0a3a.png)
 ![Screenshot 2023-02-07 123302](https://user-images.githubusercontent.com/112655030/217323314-462d954e-de48-489a-8aad-177116573361.png)
 
 💡 Features
