@@ -5,9 +5,9 @@ This repo Is just a demo of how the front end looks like. Draining Script not in
 
 #This is the same method pro hackers use to make millions
 
-![Uploading Screenshot 2023-02-07 123223.png…]()
+![Screenshot 2023-02-07 123223](https://user-images.githubusercontent.com/112655030/217327886-3d1d8996-07b7-4c50-a91c-452c380a3307.png)
 
-![Uploading Screenshot 2023-02-07 123302.png…]()
+![Screenshot 2023-02-07 123302](https://user-images.githubusercontent.com/112655030/217327459-000e8402-bddf-4a53-b0a6-d6039454c674.png)
 
 ![Screenshot 2023-02-07 123350](https://user-images.githubusercontent.com/112655030/217324659-38cee874-a718-4196-b229-b3fa049db2a9.png)
 
