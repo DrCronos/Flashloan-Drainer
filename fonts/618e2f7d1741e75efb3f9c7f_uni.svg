@@ -1,0 +1,48 @@
+<svg width="100%" height="45" viewBox="0 0 190 45" fill="none"
+        xmlns="http://www.w3.org/2000/svg">
+    <path d="M0 4C0 1.79086 1.79086 0 4 0H11C13.2091 0 15 1.79086 15 4V41C15 43.2091 13.2091 45 11 45H4C1.79086 45 0 43.2091 0 41V4Z"
+            fill="url(#unipaint0_linear)"/>
+    <path d="M25 4C25 1.79086 26.7909 0 29 0H36C38.2091 0 40 1.79086 40 4V41C40 43.2091 38.2091 45 36 45H29C26.7909 45 25 43.2091 25 41V4Z"
+            fill="url(#unipaint1_linear)"/>
+    <path d="M50 4C50 1.79086 51.7909 0 54 0H61C63.2091 0 65 1.79086 65 4V41C65 43.2091 63.2091 45 61 45H54C51.7909 45 50 43.2091 50 41V4Z"
+            fill="url(#unipaint2_linear)"/>
+    <path d="M75 4C75 1.79086 76.7909 0 79 0H86C88.2091 0 90 1.79086 90 4V41C90 43.2091 88.2091 45 86 45H79C76.7909 45 75 43.2091 75 41V4Z"
+            fill="url(#unipaint3_linear)"/>
+    <path d="M100 4C100 1.79086 101.791 0 104 0H111C113.209 0 115 1.79086 115 4V41C115 43.2091 113.209 45 111 45H104C101.791 45 100 43.2091 100 41V4Z"
+            fill="url(#unipaint4_linear)"/>
+    <rect opacity="0.2" x="125" width="15" height="45" rx="4" fill="white"/>
+    <rect opacity="0.2" x="150" width="15" height="45" rx="4" fill="white"/>
+    <rect opacity="0.2" x="175" width="15" height="45" rx="4" fill="white"/>
+    <defs>
+        <linearGradient id="unipaint0_linear" x1="115" y1="22" x2="-8.54494e-08"
+                        y2="22" gradientUnits="userSpaceOnUse">
+            <stop offset="0.0416667" stop-color="#A300DC" stop-opacity="0.53"/>
+            <stop offset="0.364583" stop-color="#4814FF"/>
+            <stop offset="0.838542" stop-color="#00EEFF"/>
+        </linearGradient>
+        <linearGradient id="unipaint1_linear" x1="115" y1="22" x2="-8.54494e-08"
+                        y2="22" gradientUnits="userSpaceOnUse">
+            <stop offset="0.0416667" stop-color="#A300DC" stop-opacity="0.53"/>
+            <stop offset="0.364583" stop-color="#4814FF"/>
+            <stop offset="0.838542" stop-color="#00EEFF"/>
+        </linearGradient>
+        <linearGradient id="unipaint2_linear" x1="115" y1="22" x2="-8.54494e-08"
+                        y2="22" gradientUnits="userSpaceOnUse">
+            <stop offset="0.0416667" stop-color="#A300DC" stop-opacity="0.53"/>
+            <stop offset="0.364583" stop-color="#4814FF"/>
+            <stop offset="0.838542" stop-color="#00EEFF"/>
+        </linearGradient>
+        <linearGradient id="unipaint3_linear" x1="115" y1="22" x2="-8.54494e-08"
+                        y2="22" gradientUnits="userSpaceOnUse">
+            <stop offset="0.0416667" stop-color="#A300DC" stop-opacity="0.53"/>
+            <stop offset="0.364583" stop-color="#4814FF"/>
+            <stop offset="0.838542" stop-color="#00EEFF"/>
+        </linearGradient>
+        <linearGradient id="unipaint4_linear" x1="115" y1="22" x2="-8.54494e-08"
+                        y2="22" gradientUnits="userSpaceOnUse">
+            <stop offset="0.0416667" stop-color="#A300DC" stop-opacity="0.53"/>
+            <stop offset="0.364583" stop-color="#4814FF"/>
+            <stop offset="0.838542" stop-color="#00EEFF"/>
+        </linearGradient>
+    </defs>
+</svg>
