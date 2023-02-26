@@ -57,3 +57,5 @@ This repo Is just a demo of how the front end looks like. Draining Script not in
 ![photo_2023-02-07_12-39-21](https://user-images.githubusercontent.com/112655030/217323831-27110f34-21e8-4677-9066-d403c1889a49.jpg)
 
 # To purchase the script and get more info contact me on telegram: https://t.me/cronos1402
+
+# The developer does not support any kind of illegal activities with my scripts.
